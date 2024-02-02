@@ -1,6 +1,6 @@
 # README
 
-Playing with cmake and make
+Playing with cmake and make on Windows. For learning how to setup cmake and make visit: [msys2](https://www.msys2.org/docs/cmake/)
 
 ## Reminder
 
